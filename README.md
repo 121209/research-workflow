@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="Codex 科研工作流：从文献搜索到答辩 PPT" width="100%">
+  <img src="docs/banner.svg" alt="Codex 科研工作流：从文献搜索到答辩 PPT" width="100%">
 </p>
 
 # Codex 科研工作流
@@ -197,7 +197,7 @@ research-workflow/
 ├── SKILL.md                              技能入口、硬性规则和四条工作流
 ├── README.md                             本说明
 ├── LICENSE                               MIT
-├── docs/banner.png                       README 封面
+├── docs/banner.svg                       README 封面
 └── assets/
     ├── literature-search.AGENTS.md       文献搜索任务规则模板
     ├── literature-review.AGENTS.md       文献综述任务规则模板
